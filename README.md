@@ -1,10 +1,7 @@
 ## Terminal Commands
 
-1. Descargue e instale la versión LTS de NodeJs desde [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Vaya al terminal del producto y ejecute `npm install` para instalar nuestras dependencias locales.
-3. Luego ejecute 'npm run dev' para verlo en local o el link del despliegue en NETLIFY
-
-Link: https://dashboard-react-dd.netlify.app/dashboard/home
+1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
+2. Navigate to the root ./ directory of the product and run `npm install` to install our local dependencies.
 
 ## Documentation
 
